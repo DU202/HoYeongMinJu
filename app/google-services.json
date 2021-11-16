@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588626741418",
+    "project_id": "deu-hoyeongminju",
+    "storage_bucket": "deu-hoyeongminju.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588626741418:android:d841bf76f61a9c749ae8d3",
+        "android_client_info": {
+          "package_name": "com.example.hoyeongminju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588626741418-apf938ammeto5rva1toiljgu8h8mnffv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhjimGQzeD7lPNfH2tNq_YwRYshbn43k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588626741418-apf938ammeto5rva1toiljgu8h8mnffv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
